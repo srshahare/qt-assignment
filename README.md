@@ -2,7 +2,12 @@
 Qt assignment from iit bombay
 
 ## Preview
+### Main Window
 ![alt text](https://github.com/srshahare/qt-assignment/blob/master/images/main.png)
+
+## About Dialog
+![alt text](https://github.com/srshahare/qt-assignment/blob/master/images/dialog.png)
+
 
 ## How to run the code
 1. run the following command to clone the repository.
