@@ -1,6 +1,9 @@
 # qt-assignment
 Qt assignment from iit bombay
 
+## Preview
+![alt text](https://github.com/srshahare/qt-assignment/blob/master/images/main.png)
+
 ## How to run the code
 1. run the following command to clone the repository.
 2. git clone https://github.com/srshahare/qt-assignment.git <project_name>.
